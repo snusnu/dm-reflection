@@ -12,7 +12,7 @@ begin
 
   Jeweler::Tasks.new do |gem|
 
-    gem.version     = DataMapper::SchemaReflection::VERSION
+    gem.version     = DataMapper::Reflection::VERSION
 
     gem.name        = "dm-reflection"
     gem.summary     = %Q{Generates datamapper models from existing database schemas}
