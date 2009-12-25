@@ -23,7 +23,6 @@ Gem::Specification.new do |s|
      "README.rdoc",
      "Rakefile",
      "dm-reflection.gemspec",
-     "dm-schema_reflection.gemspec",
      "lib/dm-reflection.rb",
      "lib/dm-reflection/builders/source_builder.rb",
      "lib/dm-reflection/version.rb",
